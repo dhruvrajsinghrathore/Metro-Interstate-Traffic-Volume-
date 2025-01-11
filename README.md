@@ -1,4 +1,23 @@
-1. Here we have Built a traffic congestion model using scikit-learn, with feature scaling, one-hot encoding, and time-series analysis.
-2. Applied Random Forest, Lasso, Ridge, Linear, and Polynomial Regression with cross-validation.
-3. Used pandas, NumPy, Matplotlib, and Seaborn for data analysis; tuned hyperparameters with GridSearchCV.
-4• Evaluated with RMSE and R-squared; Polynomial Regression showed the best accuracy.
+# Traffic Congestion Prediction Model
+
+## Model Development
+- Built a traffic congestion model using scikit-learn
+- Implemented feature scaling and one-hot encoding
+- Applied time-series analysis techniques
+
+## Machine Learning Algorithms
+- Random Forest
+- Lasso Regression
+- Ridge Regression
+- Linear Regression
+- Polynomial Regression
+
+## Tools and Techniques
+- Used pandas and NumPy for data manipulation
+- Employed Matplotlib and Seaborn for data visualization
+- Implemented cross-validation to prevent overfitting
+- Tuned hyperparameters using GridSearchCV
+
+## Evaluation
+- Assessed model performance using RMSE and R-squared metrics
+- Polynomial Regression demonstrated the highest predictive accuracy
