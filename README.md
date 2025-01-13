@@ -6,11 +6,11 @@
 - Applied time-series analysis techniques
 
 ## Machine Learning Algorithms
-- Random Forest
-- Lasso Regression
-- Ridge Regression
 - Linear Regression
+- Multilinear Regression
+- Linear Regression with Lasso and Ridge Regularisation
 - Polynomial Regression
+- Polynomial Regression Lasso and Ridge Regularisation 
 
 ## Tools and Techniques
 - Used pandas and NumPy for data manipulation
