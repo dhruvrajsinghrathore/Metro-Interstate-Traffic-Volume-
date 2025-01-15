@@ -1,5 +1,4 @@
 # Traffic Congestion Prediction Model
-
 ## Model Development
 - Built a traffic congestion model using scikit-learn
 - Implemented feature scaling and one-hot encoding
